@@ -176,3 +176,10 @@ $$ (I \otimes X) \cdot \frac{1}{\sqrt{2}} (|00\rangle - |11\rangle) = \frac{1}{\
 
 Final state:
 $$ |\Psi^-\rangle = \begin{pmatrix} 0 \\ \frac{1}{\sqrt{2}} \\ -\frac{1}{\sqrt{2}} \\ 0 \end{pmatrix} $$
+
+## SCREENSHOTS FROM MARKDOWN CODE EDITOR FOR PDF FORMAT:
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
