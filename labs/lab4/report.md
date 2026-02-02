@@ -1,4 +1,6 @@
-# Laboratory 2 – Quantum Oracles and Grover Diffusion Operator
+Michał Kałmucki 151944
+
+# Quantum Oracles and Grover Diffusion Operator
 
 ## Introduction
 In this laboratory, we construct and analyze quantum oracle operators and the Grover diffusion operator using matrix representations and Qiskit circuits. XOR and phase oracles are implemented, and the Grover diffusion operator \(W\) is built for \(n=3\) qubits. Unitarity of all operators is verified, and circuits are visualized using Qiskit.
